@@ -15,7 +15,6 @@ public class Clock : MonoBehaviour {
 	void Update () {
         float hours = (8 + TimeManager.instance.t * 24) % 24;
         float mins = (hours - Mathf.Floor(hours)) * 60;
-        Debug.Log(hours);
         text.text = string.Format("{0:00}:{1:00}", hours, mins);
 	}
 }
