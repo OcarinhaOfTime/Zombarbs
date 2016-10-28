@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: 1ca116a8e690a634583ecf17337e20f0
-timeCreated: 1477617816
+guid: 3e42916412d68f34ca264668019f1d72
+timeCreated: 1477619482
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Firesprite2_0
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -52,20 +51,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Firesprite2_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 800
-        height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
+    sprites: []
     outline: []
   spritePackingTag: 
   userData: 
